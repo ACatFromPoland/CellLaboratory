@@ -18,9 +18,9 @@ Controls-
 
 Brush Controls-
 
-Left Click to suck in cells.
-Right Click to push out cells.
-Scroll wheel to increase or decrease the size of the brush.
+-Left Click to suck in cells.
+-Right Click to push out cells.
+-Scroll wheel to increase or decrease the size of the brush.
 
 
 Youtube Video - 
