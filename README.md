@@ -12,6 +12,10 @@ Controls-
   F for placing a different type of cell ( Doesn't work...)
 
 
+
+
+
+
 Brush Controls-
 
 Left Click to suck in cells.
