@@ -16,4 +16,4 @@ Brush Controls-
 -Scroll wheel to increase or decrease the size of the brush.  
 
 
-Youtube Video - 
+Youtube Video - https://youtu.be/KcdVQBV8Gng
